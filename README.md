@@ -1,5 +1,6 @@
-## Hi there 👋
+## Who I am?👋
 
+My name is Alvaro. I'm a First Semester Computer Science Student at Tecnologico de Monterrey
 <!--
 **alvarogonmar/alvarogonmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
