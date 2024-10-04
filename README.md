@@ -1,4 +1,4 @@
-## Who I am?👋
+## Who am I?👋
 
 👤My name is Alvaro. I'm a First Semester Computer Science Student at Tecnologico de Monterrey
 
@@ -6,7 +6,7 @@
 
 💻I'm really interested in programming and learning something new every day, always trying to solve new challenges.
 
-📞Contact:
+## 📞Contact:
 Email: alvarogonmar0@gmail.com
 LinkedIn: [www.linkedin.com/in/alvarogonmar0](www.linkedin.com/in/alvarogonmar0)
 <!--
