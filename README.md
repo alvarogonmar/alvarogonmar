@@ -8,7 +8,7 @@
 
 📞Contact:
 Email: alvarogonmar0@gmail.com
-LinkedIn: [linkedin.com/in/alvaro](www.linkedin.com/in/alvarogonmar0)
+LinkedIn: [www.linkedin.com/in/alvarogonmar0](www.linkedin.com/in/alvarogonmar0)
 <!--
 **alvarogonmar/alvarogonmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
