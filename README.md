@@ -1,6 +1,14 @@
 ## Who I am?👋
 
-My name is Alvaro. I'm a First Semester Computer Science Student at Tecnologico de Monterrey
+👤My name is Alvaro. I'm a First Semester Computer Science Student at Tecnologico de Monterrey
+
+*********************************
+
+💻I'm really interested in programming and learning something new every day, always trying to solve new challenges.
+
+📞Contact:
+Email: alvarogonmar0@gmail.com
+LinkedIn: [linkedin.com/in/alvaro](www.linkedin.com/in/alvarogonmar0)
 <!--
 **alvarogonmar/alvarogonmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
