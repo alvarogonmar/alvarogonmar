@@ -8,7 +8,6 @@
 Email: alvarogonmar0@gmail.com
 LinkedIn: [www.linkedin.com/in/alvarogonmar0](https://www.linkedin.com/in/%C3%A1lvaro-gonz%C3%A1lez-40ba12320/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarogonmar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alvarogonmar/alvarogonmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
