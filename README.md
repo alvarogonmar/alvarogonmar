@@ -10,7 +10,7 @@ LinkedIn: [www.linkedin.com/in/alvarogonmar0](https://www.linkedin.com/in/%C3%A1
 
 ## 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,cpp,py,tailwind,ts,vite,nodejs,django,git,github,godot,matlab,netlify,nextjs,bash,vscode,figma,discord&perline=7" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,cpp,py,tailwind,ts,vite,nodejs,django,git,github,godot,matlab,netlify,nextjs,bash,vscode,figma,linkedin&perline=7" />
 </p>
 
 
