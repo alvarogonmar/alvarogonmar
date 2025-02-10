@@ -1,6 +1,6 @@
 ## Who am I?👋
 
-👤My name is Alvaro. I'm a First Semester Computer Science Student at Tecnologico de Monterrey
+👤My name is Alvaro. I'm a Second Semester Computer Science Student at Tecnologico de Monterrey
 
 💻I'm really interested in programming and learning something new every day, always trying to solve new challenges.
 
