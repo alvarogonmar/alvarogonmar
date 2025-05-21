@@ -13,6 +13,9 @@ LinkedIn: [www.linkedin.com/in/alvarogonmar0](https://www.linkedin.com/in/%C3%A1
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,cpp,py,tailwind,ts,vite,nodejs,django,git,github,godot,matlab,netlify,nextjs,bash,vscode,figma,linkedin&perline=7" />
 </p>
 
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarogonmar&show_icons=true&locale=en&layout=compact" alt="alvarogonmar" /></p> -->
+## 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvarogonmar&" alt="alvarogonmar" /></p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarogonmar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
