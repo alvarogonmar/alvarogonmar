@@ -1,5 +1,5 @@
 ## Who am I?👋
-<h3 align="center">Computer science student and Web/Front-End Developer</h3>
+<h3 align="center">Computer Science Student and Web/Front-End Developer</h3>
 
 
 👤My name is Alvaro. I'm a Second Semester Computer Science Student at Tecnologico de Monterrey
