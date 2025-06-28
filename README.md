@@ -20,8 +20,9 @@ LinkedIn: [www.linkedin.com/in/alvarogonmar0](https://www.linkedin.com/in/%C3%A1
 ## 
 <!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvarogonmar&" alt="alvarogonmar" /></p> -->
 <!-- <p align="center "a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alvarogonmar&theme=radical&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a> -->
-<p align="center" a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alvarogonmar&theme=shadow-orange&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a>
+<!-- <p align="center" a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alvarogonmar&theme=shadow-orange&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a> -->
 
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alvarogonmar&theme=shadow-orange&short_numbers=true" alt="GitHub Streak" /></a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarogonmar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
