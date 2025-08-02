@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student and Web/Front-End Developer</h3>
 
 
-👤My name is Alvaro. I'm a Second Semester Computer Science Student at Tecnologico de Monterrey
+👤My name is Alvaro. I'm a Third Semester Computer Science Student at Tecnologico de Monterrey
 
 💻 I'm really interested in programming and learning something new every day, always trying to solve new challenges.
 I especially enjoy working on front-end projects and creating engaging user experiences.
